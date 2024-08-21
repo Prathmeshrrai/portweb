@@ -83,6 +83,17 @@ export const Contact = () => {
               </IconButton>
             </a>
 
+            
+            <a
+              href="https://www.instagram.com/prathmeshrrai/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <IconButton bg={pink}>
+                <AiOutlineInstagram size={40} />
+              </IconButton>
+            </a>
+
             <a
               href="https://drive.google.com/file/d/1-vCXuIhz4RIsV5OXQsL8bShma6ApIhLZ/view?usp=sharing"
               target="_blank"
