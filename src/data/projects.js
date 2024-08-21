@@ -73,10 +73,10 @@ export const projects = [
     link: "https://teshank2137.github.io/#/",
   },*/
   {
-    title: "Portfolio v1",
+    title: "Portfolio",
     description: "Built using HTML, CSS, Javascript, ReactJS and lots of ❤️ love.",
     image:
-      "https://raw.githubusercontent.com/teshank2137/portfolio/v1/src/assets/images/port.JPG",
-    link: "https://www.v1.teshank.dev/",
+      "https://png.pngtree.com/png-vector/20210206/ourmid/pngtree-p-alphabet-vector-golden-design-png-image_2884855.png",
+    link: "https://prathmeshrrai.github.io/portweb/",
   },
 ];
