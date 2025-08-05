@@ -20,7 +20,7 @@ export const projects = [
   },
   {
   title: "Foodie-Weee",
-  description: "A Swiggy-inspired food delivery web app built with ReactJS, Redux, and the Swiggy API. Features include live restaurant search, dynamic menu rendering, efficient cart management, and optimized performance using lazy loading and code splitting.",
+  description: "Swiggy-like food app with ReactJS, Redux, live search, dynamic menus, and optimized performance.",
   image: "https://cdn-icons-png.flaticon.com/512/1046/1046784.png", 
   link: "https://prathmeshrrai.github.io/Foodie-Weee/",
   }
